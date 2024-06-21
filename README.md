@@ -8,3 +8,8 @@ Cloud, Edge, and Hybrid Deployment Models:
 - Evaluate the latency performance of different DT deployment models to find the optimal setup for varying network conditions.
 - PPO-DRL Agents: Implement intelligent agents using PPO-DRL to optimize task offloading and resource allocation.
 - Simulation and Hyperparameter Tuning: Includes extensive simulations and hyperparameter tuning for convergence and performance evaluation.
+
+# Repository Contents
+- src/: Source code for the implementation of the PPO-DRL models and task offloading algorithms.
+- data/: Sample data and configuration files for running simulations.
+- results/: Results from the simulations, including performance metrics and convergence analysis.
