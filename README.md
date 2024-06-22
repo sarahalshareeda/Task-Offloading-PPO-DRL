@@ -14,8 +14,7 @@ Cloud, Edge, and Hybrid Deployment Models:
 - results/: Results from the simulations, including performance metrics and convergence analysis.
 
 # Prerequisites
-Python 3.11.3
-PyTorch 2.1.2
+Python 3.11.3 and PyTorch 2.1.2
 
 # Installation
 - Clone the repository:
