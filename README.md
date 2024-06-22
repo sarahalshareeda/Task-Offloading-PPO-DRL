@@ -10,6 +10,24 @@ Cloud, Edge, and Hybrid Deployment Models:
 - Simulation and Hyperparameter Tuning: Includes extensive simulations and hyperparameter tuning for convergence and performance evaluation.
 
 # Repository Contents
-- src/: Source code for the implementation of the PPO-DRL models and task offloading algorithms.
-- data/: Sample data and configuration files for running simulations.
+- src/: Source code for implementing the PPO-DRL models of task offloading algorithms.
 - results/: Results from the simulations, including performance metrics and convergence analysis.
+
+# Prerequisites
+Python 3.11.3
+PyTorch 2.1.2
+
+# Installation
+- Clone the repository:
+git clone https://github.com/your-username/vehicular-dt-task-offloading.git
+cd vehicular-dt-task-offloading
+
+* If any installation is needed for the imported libraries in the code, use: pip install the_lib_name
+
+- Running Simulations
+To run the simulations with default settings:
+python src/code.py
+
+
+# Author
+Sarah Al-Shareeda
