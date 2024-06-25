@@ -28,12 +28,13 @@ If any installation is needed for the imported libraries in the code, use:
 Running Simulations:
 - Jupyter Notebook was used to write the code, so if you prefer to use it, go to https://jupyter.org/install to install Jupyter
 - To run the simulations with default settings, then:
-  1) cd Task-Offloading-PPO-DRL
-  2) type jupyter lab
- Once your browser window is open, locate the src folder and click on any file you want to run  
+  1) change to the created directory: cd Task-Offloading-PPO-DRL
+  2) then type: jupyter lab
+
+ Once your browser window opens, locate the src folder and click on the related "code" file you want to run.  
 
 
-The "code" files are as follows:
+Under the src, these are the included "code" files:
 - for obtaining best convergence parameters: cloud-twin-convergence.ipynb, edge-twin-convergence.ipynb, hybrid-twin-convergence.ipynb
 - for latency vs network size: cloud-twin-delay_vs_n.ipynb, edge-twin-delay_vs_n.ipynb, hybrid-twin-delay_vs_n.ipynb
 - for latency vs task size: cloud-twin-delay_vs_size.ipynb, edge-twin-delay_vs_size.ipynb, hybrid-twin-delay_vs_size.ipynb
