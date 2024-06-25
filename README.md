@@ -24,9 +24,7 @@ Clone the repository:
 If any installation is needed for the imported libraries in the code, use:
 - pip install the_lib_name
 
-Running Simulations:
-
-To run the simulations with default settings:
+Running Simulations; To run the simulations with default settings:
 - python src/code.py
 
 The files are as follows:
