@@ -30,8 +30,7 @@ Running Simulations:
 - To run the simulations with default settings, then:
   1) change to the created directory: cd Task-Offloading-PPO-DRL
   2) then type: jupyter lab
-
- Once your browser window opens, locate the src folder and click on the related "code" file you want to run.  
+- Once your browser window opens, locate the src folder and click on the related "code" file you want to run.  
 
 
 Under the src, these are the included "code" files:
