@@ -29,6 +29,11 @@ Running Simulations:
 To run the simulations with default settings:
 - python src/code.py
 
+The files are as follows:
+- for obtaining best convergence parameters: cloud-twin-convergence.ipynb, edge-twin-convergence.ipynb, hybrid-twin-convergence.ipynb
+- for latency vs network size: cloud-twin-delay_vs_n.ipynb, edge-twin-delay_vs_n.ipynb, hybrid-twin-delay_vs_n.ipynb
+- for latency vs task size: cloud-twin-delay_vs_size.ipynb, edge-twin-delay_vs_size.ipynb, hybrid-twin-delay_vs_size.ipynb
+- for latency vs data rate: cloud-twin-delay_vs_rate.ipynb, edge-twin-delay_vs_rate.ipynb, hybrid-twin-delay_vs_rate.ipynb
 
 # Author
 Sarah Al-Shareeda
