@@ -28,8 +28,9 @@ If any installation is needed for the imported libraries in the code, use:
 Running Simulations:
 - Jupyter Notebook was used to write the code, so if you prefer to use it, go to https://jupyter.org/install to install Jupyter
 - To run the simulations with default settings, then:
-- 1) cd Task-Offloading-PPO-DRL
-- 2) type jupyter lab
+  1) cd Task-Offloading-PPO-DRL
+  2) type jupyter lab
+ Once your browser window is open, locate the src folder and click on any file you want to run  
 
 
 The "code" files are as follows:
