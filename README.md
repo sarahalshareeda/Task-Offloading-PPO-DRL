@@ -17,17 +17,23 @@ Cloud, Edge, and Hybrid Deployment Models:
 Python 3.11.3 and PyTorch 2.1.2
 
 # Installation
+Open a new terminal
+
 Clone the repository:
 - git clone https://github.com/sarahalshareeda/Task-Offloading-PPO-DRL.git
-- cd Task-Offloading-PPO-DRL
+Now you have a folder called "Task-Offloading-PPO-DRL"
 
 If any installation is needed for the imported libraries in the code, use:
 - pip install the_lib_name
 
-Running Simulations; To run the simulations with default settings:
-- python src/code.py
+Running Simulations:
+- Jupyter Notebook was used to write the code, so if you prefer to use them, go to https://jupyter.org/install to install Jupyter
+- To run the simulations with default settings, then:
+-  cd Task-Offloading-PPO-DRL
+-  type jupyter lab
 
-The files are as follows:
+
+The "code" files are as follows:
 - for obtaining best convergence parameters: cloud-twin-convergence.ipynb, edge-twin-convergence.ipynb, hybrid-twin-convergence.ipynb
 - for latency vs network size: cloud-twin-delay_vs_n.ipynb, edge-twin-delay_vs_n.ipynb, hybrid-twin-delay_vs_n.ipynb
 - for latency vs task size: cloud-twin-delay_vs_size.ipynb, edge-twin-delay_vs_size.ipynb, hybrid-twin-delay_vs_size.ipynb
