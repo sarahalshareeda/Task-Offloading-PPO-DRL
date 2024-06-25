@@ -28,8 +28,8 @@ If any installation is needed for the imported libraries in the code, use:
 Running Simulations:
 - Jupyter Notebook was used to write the code, so if you prefer to use it, go to https://jupyter.org/install to install Jupyter
 - To run the simulations with default settings, then:
--   cd Task-Offloading-PPO-DRL
--   type jupyter lab
+- 1) cd Task-Offloading-PPO-DRL
+- 2) type jupyter lab
 
 
 The "code" files are as follows:
