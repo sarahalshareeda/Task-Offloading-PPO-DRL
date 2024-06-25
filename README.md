@@ -41,4 +41,4 @@ P.S. You can play and choose whatever hyperparameters, network size, task size, 
 
 # Author
 Sarah Al-Shareeda
-> (CAR-OSU USA and BTS-ITU Turkey)
+  (CAR-OSU USA and BTS-ITU Turkey)
