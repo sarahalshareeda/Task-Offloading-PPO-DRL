@@ -40,8 +40,5 @@ Once your browser window opens, locate the src folder and click on the related "
 P.S. You can play and choose whatever hyperparameters, network size, task size, and data rates you want to experiment with.
 
 # Author
-Sarah Al-Shareeda
-
-CAR-OSU USA
-
-BTS-ITU Turkey
+Sarah Al-Shareeda\\
+(CAR-OSU USA and BTS-ITU Turkey)
