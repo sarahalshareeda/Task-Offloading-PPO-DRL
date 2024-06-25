@@ -17,7 +17,7 @@ Cloud, Edge, and Hybrid Deployment Models:
 Python 3.11.3 and PyTorch 2.1.2
 
 # Installation
-- Clone the repository:
+Clone the repository:
 - git clone https://github.com/sarahalshareeda/Task-Offloading-PPO-DRL.git
 - cd Task-Offloading-PPO-DRL
 
