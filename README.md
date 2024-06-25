@@ -20,8 +20,7 @@ Python 3.11.3 and PyTorch 2.1.2
 Open a new terminal
 
 Clone the repository:
-- git clone https://github.com/sarahalshareeda/Task-Offloading-PPO-DRL.git
-Now you have a folder called "Task-Offloading-PPO-DRL"
+- git clone https://github.com/sarahalshareeda/Task-Offloading-PPO-DRL.git. Now you have a folder called "Task-Offloading-PPO-DRL"
 
 If any installation is needed for the imported libraries in the code, use:
 - pip install the_lib_name
