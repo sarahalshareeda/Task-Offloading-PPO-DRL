@@ -21,11 +21,13 @@ Clone the repository:
 - git clone https://github.com/sarahalshareeda/Task-Offloading-PPO-DRL.git
 - cd Task-Offloading-PPO-DRL
 
-* If any installation is needed for the imported libraries in the code, use: pip install the_lib_name
+If any installation is needed for the imported libraries in the code, use:
+- pip install the_lib_name
 
-- Running Simulations
+Running Simulations:
+
 To run the simulations with default settings:
-python src/code.py
+- python src/code.py
 
 
 # Author
