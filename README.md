@@ -26,10 +26,10 @@ If any installation is needed for the imported libraries in the code, use:
 - pip install the_lib_name
 
 Running Simulations:
-- Jupyter Notebook was used to write the code, so if you prefer to use them, go to https://jupyter.org/install to install Jupyter
+- Jupyter Notebook was used to write the code, so if you prefer to use it, go to https://jupyter.org/install to install Jupyter
 - To run the simulations with default settings, then:
--  cd Task-Offloading-PPO-DRL
--  type jupyter lab
+-   cd Task-Offloading-PPO-DRL
+-   type jupyter lab
 
 
 The "code" files are as follows:
