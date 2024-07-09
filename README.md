@@ -12,7 +12,7 @@ Cloud, Edge, and Hybrid Deployment Models:
 # Repository Contents
 - src/: Source code for implementing the PPO-DRL models of task offloading algorithms.
 - results/: Results from the simulations, including performance metrics and convergence analysis.
-- appendix/: contains a full version of the related literature review section.
+- appendix/: contains the used notaions dictionary table and a full version of the related literature review section.
 
 # Prerequisites
 Python 3.11.3 and PyTorch 2.1.2
