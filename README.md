@@ -1,17 +1,16 @@
-# Intelligent Task Offloading with Cognitive Generative Models for Vehicular Digital Twins
-This repository contains the code and resources for implementing cognitive generative intelligent task offloading in digital twins for vehicular networks.
+# Intelligent Task Offloading with Cognitive DRL Models for Vehicular Digital Twins
+This repository contains the code and resources for implementing cognitive intelligent reinforcement learning task offloading in DTSs for vehicular networks.
 # Abstract
 Vehicular Cognitive Digital Twins (DTs) are poised to become a cornerstone of the future metaverse for vehicular networks, facilitating seamless interaction between vehicles and their environments. This repository presents an intelligent Proximal Policy Optimization-Deep Reinforcement Learning (PPO-DRL) approach to evaluate Cloud-Twin, Edge-Twin, and Hybrid-Twin models for latency minimization. The code defines the environment states, task offloading decisions, computational resource allocation, and reward mechanisms to achieve optimal performance.
 
 # Key Features
 Cloud, Edge, and Hybrid Deployment Models:
 - Evaluate the latency performance of different DT deployment models to find the optimal setup for varying network conditions.
-- PPO-DRL Agents: Implement intelligent agents using PPO-DRL to optimize task offloading and resource allocation.
+- Implement intelligent agents using PPO-DRL to optimize task offloading and resource allocation.
 - Simulation and Hyperparameter Tuning: Includes extensive simulations and hyperparameter tuning for convergence and performance evaluation.
 
 # Repository Contents
 - src/: Source code for implementing the PPO-DRL models of task offloading algorithms.
-- results/: Results from the simulations, including performance metrics and convergence analysis.
 - appendix/: contains the used notaions dictionary table and a full version of the related literature review section.
 
 # Prerequisites
@@ -41,4 +40,4 @@ Once your browser window opens, locate the src folder and click on the related "
 P.S. You can play and choose whatever hyperparameters, network size, task size, and data rates you want to experiment with.
 
 # Author
-Sarah Al-Shareeda (CAR-OSU USA, BTS-ITU Turkey, BCRG UK)
+Sarah Al-Shareeda (CAR-OSU USA, ITU Turkey, BTS Turkey, BCRG UK)
